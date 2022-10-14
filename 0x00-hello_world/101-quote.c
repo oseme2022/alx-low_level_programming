@@ -1,7 +1,7 @@
 #include <unistd.h>
 #include <stdio.h>
 
-/*
+/**
  * main - print exactly and that piece of art is useful
  *
  * Return: Always 0 (success)
