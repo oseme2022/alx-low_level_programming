@@ -7,12 +7,13 @@
 
 int main(void)
 {
-	int a;
-
 	char b;
 
-	a = '0';
+	int a;
+
+
 	b = 'a';
+	a = 0;
 
 	while
 		(a < 10) {
