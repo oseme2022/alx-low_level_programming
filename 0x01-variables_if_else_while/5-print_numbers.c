@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-/** main - Entry point
+/**
+ * main - Entry point
  * Return: Always 0 (success)
  *
  */
@@ -9,12 +10,8 @@ int main(void)
 {
 	int a;
 
-	a = 0;
-	while
-		(a <= 10) {
-			putchar(a);
-				a++;
-		}
+	for (a = 0; a <= 9; a++)
+		printf("%d", a);
 			putchar('\n');
 			return (0);
 }
