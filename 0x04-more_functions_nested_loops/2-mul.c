@@ -5,7 +5,7 @@
  * mul - mulitple two interger
  * @a: first integer
  * @b: second integer
- * Return: additon of a and b
+ * Return: mul of a and b
  *
  */
 
