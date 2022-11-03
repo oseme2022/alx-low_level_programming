@@ -6,7 +6,7 @@
  * @s2: string_2 base address.
  * @i: left index.
  * @j: special index. (joker)
- * Return: 1 if s is palindrome, 0 otherwise.str_checker - check if two strings are identical.
+ * Return: 1 if s is palindrome, 0 otherwise.
  */
 
 int str_checker(char *s1, char *s2, int i, int j)
